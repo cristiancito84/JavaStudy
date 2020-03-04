@@ -7,7 +7,7 @@ import marathon.Obstacles.*;
 public class Start {
     public static void main(String[] args) {
         competitors[] competitors = {
-                new Human("SaraKonor "),
+                new Human("SSaraKonor "),
                 new Cat("Mak "),
                 new Robot("T800 "),
                 new Robot("Shwartz ")};
